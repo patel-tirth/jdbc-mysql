@@ -1,0 +1,13 @@
+2 CS100 IntroToCompScience  2 CompScience 
+2 CS101 IntroProgramming 3 CompScience CS100
+2 CS201 DataStrctures 4 CompScience CS101
+2 CS202 DiscreteMath 3 CompScience	
+2 CS301 AutomataTheory 3 CompScience CS202 CS201
+2 ECE201 CircuitTheory 3 ElectricalCompEngg
+5  CS301
+3 CS101 CS100
+4 CS301 CS101
+4 CS301 CS400
+6 CompScience
+1 CS202
+1 CS400
